@@ -1,7 +1,7 @@
 package myProject;
 
 public class kashif {
-
+// i hate you kashif
 	public static void main(String[] args) {
 		int n=9;
 		int count=0;
