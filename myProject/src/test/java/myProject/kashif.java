@@ -2,6 +2,7 @@ package myProject;
 
 public class kashif {
 // i hate you kashif
+	// i cant bro
 	public static void main(String[] args) {
 		int n=9;
 		int count=0;
